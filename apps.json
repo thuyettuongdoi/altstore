@@ -1,0 +1,50 @@
+{
+    "name": "thuyettuongdoi",
+    "identifier": "com.github.thuyettuongdoi",
+    "sourceURL": "https://raw.githubusercontent.com/thuyettuongdoi/altstore/main/apps.json",
+    "apps": [
+        {
+            "name": "AltStore Beta",
+            "bundleIdentifier": "com.rileytestut.AltStore.Beta",
+            "developerName": "Riley Testut",
+            "subtitle": "An alternative App Store for iOS.",
+            "version": "1.6.1b2",
+            "versionDate": "2023-02-17T12:00:00-06:00",
+            "versionDescription": "This beta fixes Windows Defender blocking AltStore from updating.\n\nPREVIOUS BETA:\n• Sideload more than 3 apps via MacDirtyCow exploit*\n• “Clear Cache” button removes non-essential data to free up disk space\n• Fixes crash when viewing Sources on iOS 12\n\n*Requires iOS 14.0 - 15.7.1 or 16.0 - 16.1.2. See Patreon post for instructions.",
+            "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_6_1_b2.ipa",
+            "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore adds support for 3rd party sources, allowing you to download apps from other developers directly through AltStore.",
+            "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+            "tintColor": "018084",
+            "size": 5626076,
+            "screenshotURLs": [
+                "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
+                "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
+                "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+            ],
+            "permissions": [
+                {
+                    "type": "background-fetch",
+                    "usageDescription": "AltStore periodically refreshes apps in the background to prevent them from expiring."
+                },
+                {
+                    "type": "background-audio",
+                    "usageDescription": "Allows AltStore to run longer than 30 seconds when refreshing apps in background."
+                }
+            ]
+        },
+        {
+            "name": "InstaRocketCracked",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "3.8.6-273.0",
+            "versionDate": "2023-03-12",
+            "size": 115383485,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-12-2023/InstaRocketCracked-3.8.6-273.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        }
+    ],
+    "userInfo": {
+        "patreonAccessToken": "uqoDoTxH8dY1ImE8tK76wxrzKk67gjyjBAcK8sD3RLU"
+    }
+}
