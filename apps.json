@@ -28,11 +28,11 @@
         {
             "name": "Facebook",
             "bundleIdentifier": "com.facebook.Facebook",
-            "version": "405.0",
-            "versionDate": "2023-03-09",
-            "size": 142562954,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/FacebookWolf-405.0.ipa",
-            "developerName": "",
+            "version": "401.0",
+            "versionDate": "2023-03-13",
+            "size": 126709146,
+            "downloadURL": "https://github.com/thuyettuongdoi/altstore/releases/download/20230313/Facebook_401.0.ipa",
+            "developerName": "thuyettuongdoi",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
         }
