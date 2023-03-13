@@ -4,7 +4,7 @@
     "sourceURL": "https://raw.githubusercontent.com/thuyettuongdoi/altstore/main/apps.json",
     "apps": [
         {
-            "name": "InstaRocketCracked",
+            "name": "Instagram",
             "bundleIdentifier": "com.burbn.instagram",
             "version": "3.8.6-273.0",
             "versionDate": "2023-03-12",
@@ -12,10 +12,10 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-12-2023/InstaRocketCracked-3.8.6-273.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+            "iconURL": "https://raw.githubusercontent.com/thuyettuongdoi/altstore/main/icons/instagram.png"
         },
         {
-            "name": "TikTokLRD",
+            "name": "TikTok",
             "bundleIdentifier": "com.zhiliaoapp.musically",
             "version": "28.4.0",
             "versionDate": "2023-02-28",
@@ -26,7 +26,7 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
-            "name": "FacebookWolf",
+            "name": "Facebook",
             "bundleIdentifier": "com.facebook.Facebook",
             "version": "405.0",
             "versionDate": "2023-03-09",
