@@ -28,7 +28,11 @@
             "size": 1,
             "downloadURL": "https://github.com/thuyettuongdoi/altstore/releases/download/20230313/TikTokLRD_v28.4.0.ipa",
             "developerName": "thuyettuongdoi",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
+            "screenshotURLs": [
+                "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/6f/13/bf/6f13bfe8-d246-2e09-b7b3-03f7fa452ec7/02ae37d3-f669-4d5c-a9bc-f6d2a615e933_2.jpeg/460x0w.webp",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/90/1a/5f/901a5f86-1691-9750-6488-e71cf3e4b74b/5dc62b86-86d4-4ff0-bfac-8fc0a82fb319_5.jpeg/460x0w.webp"
+            ]
         },
         {
             "name": "Facebook",
@@ -39,7 +43,11 @@
             "size": 1,
             "downloadURL": "https://github.com/thuyettuongdoi/altstore/releases/download/20230313/Facebook_v401.0_Wolf.ipa",
             "developerName": "thuyettuongdoi",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png",
+            "screenshotURLs": [
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/05/fa/53/05fa537c-590f-7a00-cd24-6359b569a85b/f255f7f1-7796-43a6-b2c3-57387f29faf5_News-Feed_iOS_6.5.jpg/460x0w.webp",
+                "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/18/1c/3b/181c3b56-65ad-f215-dcc2-ccd44c5a8f4e/6592fa1e-68ff-4a7e-9e88-b161b750f1f6_Groups_iOS_6.5.jpg/460x0w.webp"
+            ]
         },
         {
             "name": "Spotify",
@@ -50,7 +58,11 @@
             "size": 1,
             "downloadURL": "https://github.com/thuyettuongdoi/altstore/releases/download/20230313/Spotify++v8.8.15.ipa",
             "developerName": "thuyettuongdoi",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png",
+            "screenshotURLs": [
+                "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/25/d5/ba25d51a-7b48-02bb-ae6d-754e3312cf1b/4e06a23e-334a-455b-9a4c-5125185208aa_iOS_-_6.5_-_THOL_-_S01_-_en-US.png/460x0w.webp",
+                "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/a8/ee/53/a8ee534d-a8e2-1bb0-1fd2-eb7dfa682df9/50fb0482-9722-44af-9e97-689e53c31780_iOS_-_6.5_-_THOL_-_S02_-_en-US.png/460x0w.webp"
+            ]
         },
         {
             "name": "Twitter",
@@ -61,7 +73,11 @@
             "size": 1,
             "downloadURL": "https://github.com/thuyettuongdoi/altstore/releases/download/20230313/TwitterBH_3.9_9.48_CERT_HI.ipa",
             "developerName": "thuyettuongdoi",
-            "iconURL": "https://cdn-icons-png.flaticon.com/512/124/124021.png"
+            "iconURL": "https://cdn-icons-png.flaticon.com/512/124/124021.png",
+            "screenshotURLs": [
+                "https://is4-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/b9/67/c6/b967c64f-6fbe-b8ad-60a3-35b69a015a10/2976fabe-5bb1-410b-94b5-b24d930e2883_1.png/460x0w.webp",
+                "https://is5-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3d/5d/e1/3d5de18a-ed2d-8d78-8884-99b06cd436f0/17cf37a2-1dd8-41ef-b44f-791780e10b4a_2.png/460x0w.webp"
+            ]
         }
     ]
 }
