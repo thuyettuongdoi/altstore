@@ -12,7 +12,12 @@
             "size": 1,
             "downloadURL": "https://github.com/thuyettuongdoi/altstore/releases/download/20230313/InstagramRocket_3.8.6_273.0_HI.ipa",
             "developerName": "thuyettuongdoi",
-            "iconURL": "https://raw.githubusercontent.com/thuyettuongdoi/altstore/main/icons/instagram.png"
+            "iconURL": "https://raw.githubusercontent.com/thuyettuongdoi/altstore/main/icons/instagram.webp",
+            "screenshotURLs": [
+                "https://is4-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/6e/30/e9/6e30e949-6706-9627-c31b-ed1daed00712/ce647849-bd8b-4f91-82f7-09684b4f6168_home.jpg/460x0w.webp",
+                "https://is4-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/96/a5/ef/96a5ef0a-4ff3-4722-52a0-f790ea8aa2d4/1d8f98f2-44b2-4510-bb14-95452678e265_direct.jpg/460x0w.webp",
+                "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/ec/ec/4e/ecec4e2a-db67-5a89-8e14-db51427d5dec/02c50f95-4d27-4746-966e-fd89d317bbcc_xplore.jpg/460x0w.webp"
+            ]
         },
         {
             "name": "TikTok",
