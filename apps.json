@@ -6,23 +6,20 @@
         {
             "name": "Instagram",
             "bundleIdentifier": "com.burbn.instagram",
+            "subtitle": "This is a cracked version of Instagram",
             "version": "3.8.6-273.0",
-            "versionDate": "2023-03-12",
-            "size": 115383485,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-12-2023/InstaRocketCracked-3.8.6-273.0.ipa",
-            "developerName": "",
-            "localizedDescription": "",
+            "versionDate": "2023-03-13",
+            "downloadURL": "https://github.com/thuyettuongdoi/altstore/releases/download/20230313/InstagramRocket_3.8.6_273.0_HI.ipa",
+            "developerName": "thuyettuongdoi",
             "iconURL": "https://raw.githubusercontent.com/thuyettuongdoi/altstore/main/icons/instagram.png"
         },
         {
             "name": "TikTok",
             "bundleIdentifier": "com.zhiliaoapp.musically",
             "version": "28.4.0",
-            "versionDate": "2023-02-28",
-            "size": 220648541,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2023/TikTokLRD-28.4.0.ipa",
-            "developerName": "",
-            "localizedDescription": "",
+            "versionDate": "2023-03-13",
+            "downloadURL": "https://github.com/thuyettuongdoi/altstore/releases/download/20230313/TikTokLRD_v28.4.0.ipa",
+            "developerName": "thuyettuongdoi",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
@@ -30,14 +27,27 @@
             "bundleIdentifier": "com.facebook.Facebook",
             "version": "401.0",
             "versionDate": "2023-03-13",
-            "size": 126709146,
-            "downloadURL": "https://github.com/thuyettuongdoi/altstore/releases/download/20230313/Facebook_401.0.ipa",
+            "downloadURL": "https://github.com/thuyettuongdoi/altstore/releases/download/20230313/Facebook_v401.0_Wolf.ipa",
             "developerName": "thuyettuongdoi",
-            "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
+        },
+        {
+            "name": "Spotify",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "8.6.15",
+            "versionDate": "2023-03-13",
+            "downloadURL": "https://github.com/thuyettuongdoi/altstore/releases/download/20230313/Spotify++v8.8.15.ipa",
+            "developerName": "thuyettuongdoi",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+        },
+        {
+            "name": "Twitter",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "3.9-9.48",
+            "versionDate": "2023-03-13",
+            "downloadURL": "https://github.com/thuyettuongdoi/altstore/releases/download/20230313/TwitterBH_3.9_9.48_CERT_HI.ipa",
+            "developerName": "thuyettuongdoi",
+            "iconURL": "https://cdn-icons-png.flaticon.com/512/124/124021.png"
         }
-    ],
-    "userInfo": {
-        "patreonAccessToken": "uqoDoTxH8dY1ImE8tK76wxrzKk67gjyjBAcK8sD3RLU"
-    }
+    ]
 }
