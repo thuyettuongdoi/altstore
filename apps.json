@@ -93,6 +93,21 @@
                 "https://is3-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/02/1c/a0/021ca040-8940-8348-5ffc-cc5f08d7f858/7c521fa0-1546-4c7b-bea4-1efc95c83ef8_03_LrCC_Apple_iPhoneXsMax_Presets_1284x2778_en-US.png/230x0w.webp",
                 "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/a3/78/f5/a378f5ee-db29-28ff-ee3e-cc3efd6b21c6/c4ac7055-665c-4621-b165-2aa677ab35fc_04_LrCC_Apple_iPhoneXsMax_Color_1284x2778_en-US.png/230x0w.webp"
             ]
+        },
+        {
+            "name": "YouTube",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.10.1",
+            "versionDate": "2023-03-15",
+            "localizedDescription": "This is a cracked version of YouTube",
+            "size": 1,
+            "downloadURL": "https://github.com/thuyettuongdoi/altstore/releases/download/20230315.1/YouTube_Elite_v18.10.1.ipa",
+            "developerName": "thuyettuongdoi",
+            "iconURL": "https://cdn-icons-png.flaticon.com/512/3938/3938026.png",
+            "screenshotURLs": [
+                "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/29/b6/82/29b68299-c9e3-f291-8c5a-f4df6c79b943/5350c4d5-ca23-486f-9dd5-f851bc5ea29a_iOS-6.5-in_3.jpg/230x0w.webp",
+                "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/18/84/f9/1884f967-9d94-c0da-4285-1f18c2b04220/dce88fdc-70b3-41de-abb1-7790159e821e_iOS-6.5-in_4.jpg/230x0w.webp"
+            ]
         }
     ]
 }
