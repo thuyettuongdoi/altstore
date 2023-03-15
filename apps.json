@@ -81,7 +81,7 @@
         },
         {
             "name": "Lightroom",
-            "bundleIdentifier": "com.adobe.Lightroom",
+            "bundleIdentifier": "com.adobe.lrmobilephone",
             "version": "8.2.1",
             "versionDate": "2023-03-15",
             "localizedDescription": "This is a cracked version of Lightroom",
