@@ -78,6 +78,21 @@
                 "https://is4-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/b9/67/c6/b967c64f-6fbe-b8ad-60a3-35b69a015a10/2976fabe-5bb1-410b-94b5-b24d930e2883_1.png/460x0w.webp",
                 "https://is5-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3d/5d/e1/3d5de18a-ed2d-8d78-8884-99b06cd436f0/17cf37a2-1dd8-41ef-b44f-791780e10b4a_2.png/460x0w.webp"
             ]
+        },
+        {
+            "name": "Lightroom",
+            "bundleIdentifier": "com.adobe.Lightroom",
+            "version": "8.2.1",
+            "versionDate": "2023-03-15",
+            "localizedDescription": "This is a cracked version of Lightroom",
+            "size": 188640428,
+            "downloadURL": "https://github.com/thuyettuongdoi/altstore/releases/download/20230315/Lightroom_8.2.1_HI.ipa",
+            "developerName": "thuyettuongdoi",
+            "iconURL": "https://cdn-icons-png.flaticon.com/512/5968/5968514.png",
+            "screenshotURLs": [
+                "https://is3-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/02/1c/a0/021ca040-8940-8348-5ffc-cc5f08d7f858/7c521fa0-1546-4c7b-bea4-1efc95c83ef8_03_LrCC_Apple_iPhoneXsMax_Presets_1284x2778_en-US.png/230x0w.webp",
+                "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/a3/78/f5/a378f5ee-db29-28ff-ee3e-cc3efd6b21c6/c4ac7055-665c-4621-b165-2aa677ab35fc_04_LrCC_Apple_iPhoneXsMax_Color_1284x2778_en-US.png/230x0w.webp"
+            ]
         }
     ]
 }
