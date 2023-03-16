@@ -108,6 +108,21 @@
                 "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/29/b6/82/29b68299-c9e3-f291-8c5a-f4df6c79b943/5350c4d5-ca23-486f-9dd5-f851bc5ea29a_iOS-6.5-in_3.jpg/230x0w.webp",
                 "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/18/84/f9/1884f967-9d94-c0da-4285-1f18c2b04220/dce88fdc-70b3-41de-abb1-7790159e821e_iOS-6.5-in_4.jpg/230x0w.webp"
             ]
+        },
+        {
+            "name": "SoundCloud",
+            "bundleIdentifier": "com.soundcloud.TouchApp",
+            "version": "6.19.1",
+            "versionDate": "2023-03-16",
+            "localizedDescription": "This is a cracked version of SoundCloud",
+            "size": 1,
+            "downloadURL": "https://github.com/thuyettuongdoi/altstore/releases/download/20230316/SoundCloud.v6.19.1.+.DarkCloud.v1.4.ipa",
+            "developerName": "thuyettuongdoi",
+            "iconURL": "https://cdn-icons-png.flaticon.com/512/3256/3256023.png",
+            "screenshotURLs": [
+                "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-1.jpg",
+                "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-2.jpg"
+            ]
         }
     ]
 }
