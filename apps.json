@@ -52,11 +52,11 @@
         {
             "name": "Spotify",
             "bundleIdentifier": "com.spotify.client",
-            "version": "8.8.18",
-            "versionDate": "2023-03-19",
+            "version": "8.8.22",
+            "versionDate": "2023-04-02",
             "localizedDescription": "This is a cracked version of Spotify",
-            "size": 1,
-            "downloadURL": "https://github.com/thuyettuongdoi/altstore/releases/download/20230319/Spotify++v8.8.18.ipa",
+            "size": 54700,
+            "downloadURL": "https://github.com/thuyettuongdoi/altstore/releases/download/20230402.1/Spotify.8.8.22.ipa",
             "developerName": "thuyettuongdoi",
             "iconURL": "https://cdn-icons-png.flaticon.com/512/3669/3669986.png",
             "screenshotURLs": [
